@@ -1,0 +1,98 @@
+html,body{
+    background-color: #f0efe8;
+}
+.header{
+    display:flex;
+    justify-content: center;
+}
+.para{
+    font-size: 70px;
+
+    display: flex;
+
+    justify-content: center ;
+}
+.that_written_thing{
+    background-color: crimson;
+
+    font-family:Lucida Sans;
+}
+.box{
+    display: flex;
+    flex-wrap:wrap;
+
+    justify-content: space-evenly;
+
+    margin-top: 50px;
+    
+    font-family: cursive;
+}
+.box img{
+    margin-top: 10%;
+    border-radius: 20px;
+
+    background-color: #f7f6ec;
+}
+.paper{
+    background-color: white;
+
+    border: 5px;
+    border-radius: 20px;
+
+    width: 310px;
+    margin-bottom: 50px;
+}
+.boss{
+    display: flex;
+    flex-wrap:wrap;
+
+    justify-content: space-evenly;
+
+    margin-top: 50px;
+
+    font-family: cursive;
+}
+.boss img{
+    margin-top: 10%;
+    border-radius: 20px ;
+
+    background-color: #f7f6ec;
+}
+.end{
+    display: flex;
+
+    justify-content: space-around;
+}
+.dad{
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.dad p{
+    font-size: 40px;
+}
+.dad img{
+    margin-top: 10%;
+    border-radius: 20px ;
+
+    background-color: #f7f6ec;
+    
+    width: 200px;
+    margin-left: 10%;
+}
+.ori{
+    background-color: white;
+
+    border: 5px;
+    border-radius: 20px;
+
+    width: 250px;
+
+    margin-bottom: 50px;
+
+    text-align: center;
+}
